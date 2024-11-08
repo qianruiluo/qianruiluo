@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I'm an undergraduate student from Tsinghua University.
+🔭 I'm currently working on robotics and bioelectronics.
+🤖 I'm interested in humanoid locomotion. Feel free to chat with me!
+
+📧 mail me: luoqr21@mails.tsinghua.edu.cn
